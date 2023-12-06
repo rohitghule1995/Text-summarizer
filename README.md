@@ -1,4 +1,4 @@
-# Text-summarizer
+Overall Workflow for all the pipelines in project
 
 ## workflows
 1. Update config.yaml
